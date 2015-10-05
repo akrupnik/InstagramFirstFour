@@ -33,7 +33,7 @@ static NSUInteger const LANDSCAPE_V_SHIFT = 20;
         }
     }
     [self displayPictures];
-    NSLog(@"orientation have changed");
+    NSLog(@"orientation has been changed");
 }
 
 -(void) viewWillAppear:(BOOL)animated {
